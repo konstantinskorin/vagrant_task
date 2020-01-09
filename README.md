@@ -1,2 +1,2 @@
 # vagrant_task
-This is the python task repository.
+This is the vagrant task repository.
